@@ -1,5 +1,5 @@
 # GoChat
-A public Chat WebApp using Vue.js and Firebase Cloud Server.
+A public chat WebApp using Vue.js and Firebase Cloud Server.
 
 ## Installation of Vue.js
 Use [npm](https://www.npmjs.com/) to install vue.js globally.
