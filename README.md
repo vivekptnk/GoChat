@@ -22,14 +22,12 @@ Use [npm](https://www.npmjs.com/) to install Bootstrap jquery and popper.js in t
 npm install bootstrap jquery popper.js
 ```
 ## Firebase JS Library
-Add the Firebase JS Library
-Use [npm](https://www.npmjs.com/) 
+Add the Firebase JS Library by using [npm](https://www.npmjs.com/) 
 ```bash
 npm install firebase
 ```
 ## Moment JS Library
-Add the Moment JS Library
-Use [npm](https://www.npmjs.com/) 
+Add the Moment JS Library by using [npm](https://www.npmjs.com/) 
 ```bash
 npm install moment
 ```
