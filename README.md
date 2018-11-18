@@ -1,29 +1,23 @@
-# gochat
+# GoChat
+A public Chat WebApp using Vue.js and Firebase Cloud Server.
 
-## Project setup
-```
-npm install
-```
-
-### Compiles and hot-reloads for development
-```
-npm run serve
+## Installation of Vue.js
+Use [npm](https://www.npmjs.com/) to install vue.js globally.
+```bash
+npm install -g @vue/cli
 ```
 
-### Compiles and minifies for production
+## Set Up Vue.js 
+Go to the directory you want your Project files to be installed in and type
+```bash
+vue create <project-name>
 ```
-npm run build
-```
+Manually select feautures and add Babel, Router and Linter (+Prettier), with no history mode for router.
+Additional Linter Feature : Lint on Save
+Place the feautures in 'dedicated config files'
 
-### Run your tests
+## Bootstrap and other dependencies
+Use [npm](https://www.npmjs.com/) to install Bootstrap jquery and popper.js in the subfolder of your project file
+```bash
+npm install bootstrap jquery popper.js
 ```
-npm run test
-```
-
-### Lints and fixes files
-```
-npm run lint
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
