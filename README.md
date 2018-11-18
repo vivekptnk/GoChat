@@ -31,3 +31,13 @@ Add the Moment JS Library by using [npm](https://www.npmjs.com/)
 ```bash
 npm install moment
 ```
+## Live Server 
+You can use the live server feature by [npm](https://www.npmjs.com/). Just head over to the terminal and type
+```bash 
+npm run serve
+```
+## Vue Chat Scroll 
+Add the Vue.js package scroll to ensure scrolling while messages are being made using [npm](https://www.npmjs.com/). In terminal type
+```bash
+npm install vue-chat-scroll
+```
