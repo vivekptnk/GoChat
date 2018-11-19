@@ -12,6 +12,7 @@
 
 <script>
 import fb from '@/firebase/init';
+
 export default {
     name: 'CreateMessage',
     props: ['name'],
@@ -40,3 +41,4 @@ export default {
     }    
 }
 </script>
+

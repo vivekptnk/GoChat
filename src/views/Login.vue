@@ -45,3 +45,4 @@ export default {
     margin-right: auto;
 }
 </style>
+

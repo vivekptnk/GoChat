@@ -15,15 +15,15 @@ export default new Router({
       component: Login
     },
     {
-      path: "/chat",
-      name: "Chat",
+      path: '/chat',
+      name: 'Chat',
       component: Chat,
       props: true,
       beforeEnter: (to, from, next) => {
         if (to.params.name) {
           next();
         } else {
-          next({ name: "Login" });
+          next({name: 'Login'})
         }
       }
     }
